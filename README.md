@@ -1,7 +1,7 @@
 
 # 911 Exploratory Data Analysis
 
-Emergency (911) Calls: Fire, Traffic, EMS for Montgomery County, PA
+Walkthrough of Emergency (911) Calls: Fire, Traffic, EMS for Montgomery County, PA for Exploratory Data Analysis.
 ## Acknowledgements
 
  - [Dataset](https://www.kaggle.com/mchirico/montcoalert)
